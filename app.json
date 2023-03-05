@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "navigation_studies",
+    "slug": "navigation_studies",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
