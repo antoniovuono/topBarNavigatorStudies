@@ -9,7 +9,7 @@ const Home: React.FC = () => {
   return (
     <Container>
       <NavigatorContent>
-        <SliderNavigator />
+         <SliderNavigator />
       </NavigatorContent>
     </Container>
   );
